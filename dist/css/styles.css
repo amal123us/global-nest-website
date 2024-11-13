@@ -10934,7 +10934,7 @@ p {
 
 @media only screen and (min-width: 320px) and (max-width: 992px) {
   #mainNav .navbar-brand img {
-    height: 2.3rem;
+    
     transition: height 0.3s ease-in-out;
   }
   #mainNav .navbar-brand.header {display: none;}
@@ -11202,9 +11202,6 @@ header.masthead .masthead-heading {
 @media (min-width: 768px) {
   .timeline:before {
     left: 50%;
-  }
-  #mainNav .navbar-brand img {
-    height: 2.4rem;
   }
   .timeline > li {
     min-height: 100px;
