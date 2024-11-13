@@ -10934,7 +10934,7 @@ p {
 
 @media only screen and (min-width: 320px) and (max-width: 992px) {
   #mainNav .navbar-brand img {
-    
+    height: 2.3rem;
     transition: height 0.3s ease-in-out;
   }
   #mainNav .navbar-brand.header {display: none;}
@@ -10955,7 +10955,6 @@ p {
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
-    height: 2rem;
     transition: height 0.3s ease-in-out;
   }
   #mainNav.navbar-shrink {
